@@ -29,8 +29,10 @@ netplan --debug apply
 vim /etc/hosts
 ```
 * Máy chủ DNS server
+
 ![image](https://user-images.githubusercontent.com/91528234/197924590-007c3668-3ae4-4ef0-a1b2-681ea1387d66.png)
 * Client
+ 
 ![image](https://user-images.githubusercontent.com/91528234/197924792-d1fc7f00-ebfa-4789-9f63-4a79212f5300.png)
 * Kiểm trả domain xem đã trả về đúng giá trị IP tĩnh của DNS server chưa bằng lệnh `dig`
 ```
